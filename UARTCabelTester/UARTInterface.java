@@ -1,3 +1,5 @@
+package UARTCabelTester;
+
 import com.fazecast.jSerialComm.*;
 
 public class UARTInterface

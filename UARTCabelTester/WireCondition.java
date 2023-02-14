@@ -1,4 +1,4 @@
-package UARTCableTester;
+package UARTCabelTester;
 
 public enum WireCondition
 {
