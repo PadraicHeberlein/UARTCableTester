@@ -1,6 +1,0 @@
-package UARTCableTester;
-
-public HarnessTerminal
-{
-
-}

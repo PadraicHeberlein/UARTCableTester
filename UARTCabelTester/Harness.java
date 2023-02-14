@@ -1,7 +1,7 @@
-package UARTCableTester;
+package UARTCabelTester;
 
-import java.uitl.Collections;
-import HarnessTerminal;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Harness
 {
